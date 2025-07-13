@@ -13,7 +13,7 @@
 - 🔭 I’m currently building **useful and fun coding projects**
 - 🌱 Always learning **React, Android, Node.js, MongoDB**
 - 💬 Ask me about **web dev, mobile apps, or open-source**
-- 📫 Email me at: **proggramingPro@gmail.com**
+- 📫 Email me at: **pawarranjit084@gmail.com**
 - ⚡ Fun fact: I love automating boring tasks 😎
 
 ---
@@ -42,13 +42,13 @@
 ## 🌐 Connect with Me <br><br>
 
 <p align="center">
-  <a href="mailto:proggramingPro@gmail.com">
+  <a href="mailto:pawarranjit084@gmail.com">
     💌 <b>Send Mail</b>
   </a> &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/proggramingPro">
     💻 <b>GitHub</b>
   </a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/ranjit-pawar-019771334">
     🔗 <b>LinkedIn</b>
   </a>
 </p>
