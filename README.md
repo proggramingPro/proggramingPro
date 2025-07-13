@@ -39,12 +39,22 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me <br><br>
 
 <p align="center">
-  <a href="mailto:proggramingPro@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/proggramingPro"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:proggramingPro@gmail.com">
+    💌 <b>Send Mail</b>
+  </a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/proggramingPro">
+    💻 <b>GitHub</b>
+  </a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/your-linkedin">
+    🔗 <b>LinkedIn</b>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=0FF7F7&center=true&vCenter=true&width=350&lines=Let's+Connect+%F0%9F%91%8B;Say+Hi+Anytime+%F0%9F%91%8D;I'm+Just+a+Click+Away+%F0%9F%91%BC" />
 </p>
 
 ---
@@ -52,7 +62,11 @@
 ## 👁️ Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=proggramingPro&label=Profile+Views&color=0e75b6&style=flat" alt="proggramingPro" />
+  <img src="https://komarev.com/ghpvc/?username=proggramingPro&label=✨+Visitors+Counter+✨&color=FF69B4&style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FF9D00&center=true&vCenter=true&width=360&lines=You're+visitor+number...;Thanks+for+stopping+by!+%F0%9F%92%9A" />
 </p>
 
 ---
