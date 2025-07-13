@@ -62,7 +62,7 @@
 ## 👁️ Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=proggramingPro&label=✨+Visitors+Counter+✨&color=FF69B4&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=proggramingPro&label=✨+Visitors+Counter+✨&color=0e75b6&style=flat-square" />
 </p>
 
 <p align="center">
