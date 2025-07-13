@@ -1,20 +1,20 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+proggramingPro;A+Passionate+Developer;Web+%7C+Android+%7C+Open+Source+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+proggramingPro;Creative+Developer+%F0%9F%A7%A0;Web+%7C+Android+%7C+Open+Source+Lover;Always+Learning+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding gif" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-- 🔭 I’m currently building **useful and fun coding projects**
-- 🌱 Always learning **React, Android, Node.js, MongoDB**
-- 💬 Ask me about **web dev, mobile apps, or open-source**
-- 📫 Email me at: **proggramingPro@gmail.com**
-- ⚡ Fun fact: I love automating boring tasks 😎
+- 🔭 I’m currently working on **cool full-stack projects**
+- 🌱 I’m learning **React, Android, Node.js, MongoDB**
+- 💬 Ask me about **Web Dev, Java, Firebase, or Git**
+- 📫 Reach me: **proggramingPro@gmail.com**
+- ⚡ Fun fact: I love building creative automations 🧠
 
 ---
 
@@ -26,20 +26,28 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=proggramingPro&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=proggramingPro&theme=tokyonight" width="48%" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=proggramingPro&show_icons=true&theme=gruvbox" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=proggramingPro&theme=gruvbox" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proggramingPro&layout=compact&theme=tokyonight" width="48%" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proggramingPro&layout=compact&theme=gruvbox" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/proggramingPro/proggramingPro/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:proggramingPro@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
@@ -49,7 +57,7 @@
 
 ---
 
-## 👁️ Visitors
+## 👁️ Visitor Count
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=proggramingPro&label=Profile+Views&color=0e75b6&style=flat" alt="proggramingPro" />
